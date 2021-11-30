@@ -7,5 +7,5 @@ Aprenda a linguagem C de uma forma simples e descontraida.Este curso tambem ensi
 [!(curso primeiros passos com linguanem C (https://img.youtube.com/vi//vi/cogy/0).jpg)l(https)(https)://www.youtube.com/watch?=cogy?=Cogylca8qyw
 "videodebintoducao ai curso"
 
-###Matricula-se gratis
-aula  aed
+### Matricula-se gratis
+[aulaead](https://www.aulaead.com/courses/curso-gratis-linguagem-c) 
