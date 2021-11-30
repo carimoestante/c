@@ -2,7 +2,7 @@
 ## Curso primeiros passos com linguagem c
 Aprenda a linguagem C de uma forma simples e descontraida.Este curso tambem ensina logica de programacao e E  oponto de partida a todos que desejam aprender a programar.
 
-![Home letra](https://github.com/professorjoseassis/c/blod/master/homem%20letra.gif)
+![Homem letra](https://github.com/professorjoseassis/c/blod/master/homem%20letra.gif)
 ### assistir ao video de introducao
 [!(curso primeiros passos com linguanem C (https://img.youtube.com/vi//vi/cogy/0).jpg)l(https)(https)://www.youtube.com/watch?=cogy?=Cogylca8qyw
 "videodebintoducao ai curso"
